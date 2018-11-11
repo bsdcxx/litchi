@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on 程肖雪</title>
+    <link>https://bsdcxx.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on 程肖雪</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 May 2018 13:22:14 +0700</lastBuildDate>
+    
+	<atom:link href="https://bsdcxx.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>项目介绍</title>
+      <link>https://bsdcxx.github.io/hugo/getting-started/</link>
+      <pubDate>Mon, 28 May 2018 13:22:14 +0700</pubDate>
+      
+      <guid>https://bsdcxx.github.io/hugo/getting-started/</guid>
+      <description> *什么是超声波 &amp;emsp;维基百科
+&amp;emsp;百度百科
+##*超声波清洁原理——空化作用
+&amp;emsp;超声波清洗机主要由超声波发生器、超声波震板、清洗槽等组成。超声波除垢主要是利用超声波电源作用是相应的超声波震子上产生超声波能在液体中不断通过空化物理作用（附录）使污垢物质在超声波作用下分散、疏松、破碎摧毁、脱落，不轻易附着在管壁上，从而达到了超声波除垢的效果。超声波除垢的原理主要体现在以下几个方面：
+1、空化作用：超声波的能量对被处理流体介质直接产生大量的空穴和气泡，当声压或者声强受到压力到达一定程度时候，气泡就会迅速膨胀，然后又突然闭合。产生一定范围的强盛的压力峰，局部的压力峰可达上千个大气压，成垢物质在压力峰作用下，破碎摧毁悬浮于水中，并使已天生的垢层破碎使其易于脱落，这样达到超声波除垢的目的。
+
+2、剪切作用：超声波幅射在垢层和管壁上及水中，因为对超声波频率响应不同，三者产生不同步的振动，因此产生高速的相对运动。因为速度差形成垢层与换热器管壁界面上的相对剪切力，从而导致垢层产生疲惫而松脱，这样达到超声波除垢的目的。
+3、按捺作用：通过超声波的作用改变流体主体的物理化学性质，能按捺水中离子在壁面处的成核和长大。因此，减少粘附于换热器面上成垢离子的数目。实践研究证实，超声波作用时间越长防止成垢物质结垢效果越佳。
+
+
+*超声波清洁机器——smartclean &amp;emsp; 这里 有一个关于小型超声波清洗机器的案例，除可清洗眼镜以外，更可清洗更多物件，如首饰、假牙、牙套、牙刷、梳子、钢笔头、剃须刀头、金属表带、刀具、餐具、开罐器、印章、烟斗等。
+Step 4: 我的设想——超声波自动清洁饭盒  想法来源
+&amp;emsp;饭盒由食盒演变过来，随着社会历史的发展，在人们生活中的职能已由更加轻便的饭盒所替代。各行各业的人们都离不开这种能便捷携带食物的器皿。从功能出发，饭盒进而演变出微波、电热、折叠、一次性饭盒等。
+&amp;emsp;但洗饭盒是很痛苦的，尤其对于上班族和学生，需要随身携带洗洁精、洗碗布，费时费力又伤手。超声波可以很轻松除去污渍，只需按动开关就能迅速将油污震动下来，如果配合上热水，不需要洗洁精也能有很好的清洁效果。
+ 初步设想
+  step 1 饭盒的外型设计
+step 2 安装超声驱动板和换能器
+ 实现过程  </description>
+    </item>
+    
+  </channel>
+</rss>
